@@ -78,7 +78,7 @@ export default function Portfolio() {
       <section id="resume" className="py-20 text-center">
         <h3 className="text-3xl font-semibold mb-6">Resume</h3>
         <a
-          href="https://your-resume-link.com"
+          href="https://drive.google.com/file/d/123foajzojTz3xGdZSPVI5T89wZZenUtM/view?usp=drive_link"
           className="bg-teal-600 text-white px-6 py-2 rounded-full hover:bg-teal-500 transition-all"
         >
           Download Resume
@@ -87,8 +87,9 @@ export default function Portfolio() {
 
       <section id="contact" className="py-20 text-center">
         <h3 className="text-3xl font-semibold mb-6">Contact Me</h3>
-        <p>Email: your-email@gmail.com</p>
-        <p>LinkedIn: <a href="https://linkedin.com/in/your-profile" className="text-teal-400 hover:text-teal-300">linkedin.com/in/your-profile</a></p>
+        <p>Email: vaibhavc.pgolchha@gmail.com</p>
+        <p><a href="vaibhavgolchha@proton.me" className="text-teal-400 hover:text-teal-300">Personal contact</a></p>
+        <p><a href="https://www.linkedin.com/in/vaibhavgolchha" className="text-teal-400 hover:text-teal-300">LinkedIn</a></p>
       </section>
 
       <footer className="bg-neutral-900 text-white py-6 text-center">
